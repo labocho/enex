@@ -9,7 +9,7 @@ GEM
   specs:
     builder (3.2.3)
     diff-lcs (1.3)
-    rake (10.5.0)
+    rake (13.0.1)
     rspec (3.7.0)
       rspec-core (~> 3.7.0)
       rspec-expectations (~> 3.7.0)
@@ -28,10 +28,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.16)
+  bundler (~> 2.1.2)
   enex!
-  rake (~> 10.0)
+  rake (>= 12.3.3)
   rspec (~> 3.0)
 
 BUNDLED WITH
-   1.16.1
+   2.1.2
